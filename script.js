@@ -5,7 +5,7 @@ const resumeData = {
     email: "aman.nandkuliar@gmail.com",
     linkedin: "linkedin.com/in/aman-kumar-671a5b2a4",
     github: "AMANKUMAR-Manipal",
-    x:"https://x.com/amannanadkuliar?s=21",
+    x:"@AMANNANADKULIAR",
 
 
     summary: `I’m Aman Kumar, a Computer Science & Communication Engineering student at Manipal University Jaipur with a core focus on the intersection of Software, Hardware, and AI.My work revolves around building intelligent systems that don’t just exist in code, but solve real-world problems.`,
