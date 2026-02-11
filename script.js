@@ -6,7 +6,7 @@ const resumeData = {
     linkedin: "linkedin.com/in/aman-kumar-671a5b2a4",
     github: "AMANKUMAR-Manipal",
 
-    summary: `I’m Aman Kumar, a Computer Science & Communication Engineering student at Manipal University Jaipur with a core focus on the intersection of Software, Hardware, and AI.My work revolves around building intelligent systems that don’t just exist in code, but solve real-world problems through advanced Image Processing and Machine Learning. Whether I’m optimizing a multi-tier traffic detection pipeline or architecting an AI-driven SaaS platform, I aim to bridge the gap between complex hardware integration and scalable software.I thrive on interdisciplinary challenges and am always looking to collaborate with fellow innovators. Let’s connect and build something impactful."`,
+    summary: `I’m Aman Kumar, a Computer Science & Communication Engineering student at Manipal University Jaipur with a core focus on the intersection of Software, Hardware, and AI.My work revolves around building intelligent systems that don’t just exist in code, but solve real-world problems through advanced Image Processing and Machine Learning. Whether I’m optimizing a multi-tier traffic detection pipeline or architecting an AI-driven SaaS platform, I aim to bridge the gap between complex hardware integration and scalable software.I thrive on interdisciplinary challenges and am always looking to collaborate with fellow innovators. Let’s connect and build something impactful.`,
 
     education: [
         {
