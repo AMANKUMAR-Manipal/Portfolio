@@ -172,7 +172,8 @@ const commands = {
   <span class="json-key">Email:</span>     <a href="mailto:${resumeData.email}" class="link">${resumeData.email}</a>
   <span class="json-key">GitHub:</span>    <a href="https://github.com/${resumeData.github}" target="_blank" class="link">github.com/${resumeData.github}</a>
   <span class="json-key">LinkedIn:</span>  <a href="https://${resumeData.linkedin}" target="_blank" class="link">${resumeData.linkedin}</a>
-  <span class="json-key">x:</span>  ${resumeData.x}
+  <span class="json-key">x:</span>         <a href="https://${resumeData.x}" target="_blank" class="link">${resumeData.x}</a>
+
 
 <span class="success">Let's connect! 🤝</span>
 `;
