@@ -45,7 +45,7 @@ const resumeData = {
             name: "FigPro",
             url: "figpro-eight.vercel.app",
             description: "A streamlined Figma-inspired application designed to demonstrate the integration of real-world features, including live collaboration powered by cursor chat, contextual comments, reactions, and interactive design functionalities. Built with Fabric.js, the platform enables users to create and manipulate design elements such as shapes, freeform drawings, and image uploads on a collaborative canvas, showcasing practical implementations of modern collaborative tools.",
-            technologies: ["Fabric.js", "Next.js","TypeScript","Liveblocks","Fabric.js","Shadcn","Tailwind CSS"]
+            technologies: ["Fabric.js", "Next.js","TypeScript","Liveblocks","Shadcn","Tailwind CSS"]
         },
         {
             name: "Celery",
